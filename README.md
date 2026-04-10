@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Tushar Tyagi</h1>
-<h3 align="center">Application Developer @ Siemens Mobility</h3>
+<h1 align="left">Hello there 👋, I'm Tushar Tyagi</h1>
+<h3 align="left">Application Developer @ Siemens Mobility</h3>
 
-- 🔭 I’m currently working on **FFT based Predictive maintainence system**
+I am an Electrical Engineering Student and Developer based in Germany. I like to solve problems with tech, especially if they include hardware and software. I have already built an AI- Powered Resource Analytics tool for managers at Siemens on my own initiative and now working on new Ideas.
+- 🔭 I’m currently working on **FFT based Predictive Maintainence System**
+
+- 🌱 I’m currently learning **AI/ML and Embedded Systems**
+
+- 📫 You can reach me here: **tushartyagi2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
