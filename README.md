@@ -1,10 +1,19 @@
 <h1 align="left">Hello there 👋, I'm Tushar Tyagi</h1>
-<h3 align="left">Application Developer @ Siemens Mobility</h3>
 
-I am an Electrical Engineering Student and Developer based in Germany. I like to solve problems with tech, especially if they include hardware and software. I have already built an AI- Powered Resource Analytics tool for managers at Siemens on my own initiative and now working on new Ideas.
-- 🔭 I’m currently working on **FFT based Predictive Maintainence System**
+I am a **Solutions Engineer** who loves building tools that turn messy data into clear business decisions. With 4.5 years of experience at **Siemens Mobility** and **Volkswagen**, I specialize in bridging the gap between complex technical systems and high-stakes business outcomes.
 
-- 🌱 I’m currently learning **AI/ML and Embedded Systems**
+### 👔 Experience Highlights
+- **Siemens Mobility (Current-Employer):** Developed an AI-driven simulator (AURA: Automated Resource Analytics) for internal resource management and proposed features for pre existing talent tools that were adopted company-wide.
+- **VW:** Managed complex bidding processes and leasing offers for enterprise clients like Allianz and Siemens in southern Germany.
+
+### 🌍 Languages & Communication
+- **German:** C1 (Professional fluency)
+- **English:** C2 (Native)
+
+---
+- 🔭 I’m currently working on **ML Pipeline for AURA**
+
+- 🌱 I’m currently learning **AI/ML and Cloud Infrastructure (AWS)**
 
 - 📫 You can reach me here: **tushartyagi2000@gmail.com**
 
