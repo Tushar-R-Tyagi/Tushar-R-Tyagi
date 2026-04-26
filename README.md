@@ -1,6 +1,6 @@
 <h1 align="left">Hello there 👋, I'm Tushar Tyagi</h1>
 
-I am a **Solutions Engineer** who loves building tools that turn messy data into clear business decisions. With 4.5 years of experience at **Siemens Mobility** and **Volkswagen**, I specialize in bridging the gap between complex technical systems and high-stakes business outcomes. I am studying Electrical engineering student in Braunschweig, Germany.
+I am a **Solutions Engineer** who loves building tools that turn messy data into clear business decisions. With 4.5 years of experience at **Siemens Mobility** and **Volkswagen**, I specialize in bridging the gap between complex technical systems and high-stakes business outcomes. I am studying Electrical engineering in Braunschweig, Germany.
 
 ### 👔 Experience Highlights
 - **Siemens Mobility (Current-Employer):** Developed an AI-driven simulator (AURA: Automated Resource Analytics) for internal resource management and proposed features for pre existing talent tools that were adopted company-wide.
