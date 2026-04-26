@@ -3,7 +3,7 @@
 I am a **Solutions Engineer** and an EE Student who loves building tools that turn messy data into clear business decisions. I am currently based in Braunschweig, Germany.
 
 ### 👔 Experience Highlights
-- **Siemens Mobility (Current-Employer):** Developed an AI-driven simulator [(AURA: Automated Resource Analytics)]([(https://github.com/Tushar-R-Tyagi/AURA)]) for internal resource management and proposed features for pre existing talent tools that were adopted company-wide.
+- **Siemens Mobility (Current-Employer):** Developed an AI-driven simulator [(AURA: Automated Resource Analytics)](https://github.com/Tushar-R-Tyagi/AURA) for internal resource management and proposed features for pre existing talent tools that were adopted company-wide.
 - **VW:** Managed complex bidding processes and leasing offers for enterprise clients like Allianz and Siemens in southern Germany.
 
 ### 🌍 Languages & Communication
