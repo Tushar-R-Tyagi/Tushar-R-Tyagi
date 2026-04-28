@@ -1,7 +1,7 @@
 <h1 align="left">Hello there 👋, I'm Tushar Tyagi</h1>
 
 
-I build internal tools and data-driven systems, currently focused on software architecture and ML pipelines.
+I build tools and data-driven systems, currently focused on software architecture and ML pipelines.
 
 ---
 - 🔭 I’m currently working on **ML Pipeline for AURA (Automated Resource Analytics)**
