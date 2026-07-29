@@ -4,7 +4,7 @@
 I build tools and data-driven systems, currently focused on software architecture and ML pipelines.
 
 ---
-- 🔭 I’m currently working on **ML Pipeline for AURA (Automated Resource Analytics)**
+- 🔭 I’m currently working on **ByteCop: A platform where user learn Ai through real failure modes**
 
 - 🌱 I’m learning **AI/ML and Cloud Infrastructure (AWS)**
 
