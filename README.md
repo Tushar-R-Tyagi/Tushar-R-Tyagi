@@ -1,10 +1,10 @@
 <h1 align="left">Hello there 👋, I'm Tushar Tyagi</h1>
 
 
-I build tools and data-driven systems, currently focused on software architecture and ML pipelines.
+I build tools and data-driven systems, currently focused on software architecture and ML pipelines. 
 
 ---
-- 🔭 I’m currently working on **ByteCop: A platform where user learn Ai through real failure modes**
+- 🔭 I’m currently working on **[ByteCop](https://bytecop.dev): A platform where users learn AI through real failure modes**
 
 - 🌱 I’m learning **AI/ML and Cloud Infrastructure (AWS)**
 
