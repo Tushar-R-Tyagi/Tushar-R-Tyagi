@@ -6,9 +6,17 @@ I build tools and data-driven systems, currently focused on software architectur
 ---
 - 🔭 I’m currently working on **[ByteCop](https://bytecop.dev): A platform where users learn AI through real failure modes**
 
-- 🌱 I’m learning **AI/ML and Cloud Infrastructure (AWS)**
+- 🌱 I’m currently exploring AI safety and mechanistic interpretability.
 
 Most of my repositories reflect things I built to understand systems better. If something looks rough, it's probably because I'm still learning from it.
+
+##  Open Source
+
+### **[TheAlgorithms / Python](https://github.com)** `Merged`
+* Implemented a numerical Laplace transform algorithm in the `maths/` directory.
+* Used an exponential kernel with the trapezoidal rule, backed by full doctests.
+* View the contribution: **[Pull Request #14602](https://github.com/pull/14602)**
+
 
 Based in Germany.
 
