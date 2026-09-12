@@ -15,7 +15,7 @@ Most of my repositories reflect things I built to understand systems better. If 
 ### **[TheAlgorithms / Python](https://github.com)** `Merged`
 * Implemented a numerical Laplace transform algorithm in the `maths/` directory.
 * Used an exponential kernel with the trapezoidal rule, backed by full doctests.
-* View the contribution: **[Pull Request #14602](https://github.com/pull/14602)**
+* View the contribution: **[Pull Request #14602](https://github.com/TheAlgorithms/Python/pull/14602)**
 
 
 Based in Germany.
