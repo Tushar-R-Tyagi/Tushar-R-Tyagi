@@ -4,7 +4,7 @@
 I build tools and data-driven systems, currently focused on AI Safety. 
 
 ---
-- 🔭 I’m currently working on **Emergent AI Collusion in agentic settings**.
+- 🔭 I’m currently working on **Emergent AI Collusion in agentic settings**: [replication and interventions](https://github.com/Tushar-R-Tyagi/AI-Agentic-Collusion-Replication).
 
 Most of my repositories reflect things I built to understand systems better. If something looks rough, it's probably because I'm still learning from it.
 
