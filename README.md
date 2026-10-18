@@ -1,12 +1,10 @@
 <h1 align="left">Hello there 👋, I'm Tushar Tyagi</h1>
 
 
-I build tools and data-driven systems, currently focused on software architecture and ML pipelines. 
+I build tools and data-driven systems, currently focused on AI Safety. 
 
 ---
-- 🔭 I’m currently working on **[ByteCop](https://bytecop.dev): A platform where users learn AI through real failure modes**
-
-- 🌱 I’m currently exploring AI safety and mechanistic interpretability.
+- 🔭 I’m currently working on **Emergent AI Collusion in agentic settings**
 
 Most of my repositories reflect things I built to understand systems better. If something looks rough, it's probably because I'm still learning from it.
 
